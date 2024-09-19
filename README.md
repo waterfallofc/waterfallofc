@@ -15,6 +15,6 @@ At Waterfall Software Solutions, we specialize in developing high-quality instit
 
 <br/>
 
-_🛠️ Stay tuned for BearSystem._
+_🛠️ Stay tuned for Alioth._
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=122457&height=120&section=footer"/>
